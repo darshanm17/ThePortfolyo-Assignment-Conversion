@@ -28,11 +28,17 @@ To get a local copy up and running follow these simple steps:
    ```sh
    git clone https://github.com/your-username/ThePortfolyo-Assignment-Conversion.git
 2.Navigate into the project directory:
+  ```sh
     cd ThePortfolyo-Assignment-Conversion
+```
 3.Install dependencies:
+```sh
    npm install
+```
 4.Start the development server:
+```sh
    npm start
+```
 License
 This project is licensed under the MIT License.
 
