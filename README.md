@@ -42,7 +42,3 @@ To get a local copy up and running follow these simple steps:
 License
 This project is licensed under the MIT License.
 
-Feel free to customize this README according to your specific project details and requirements. Include installation instructions, usage guidelines, and any additional information relevant to your project.
-
-
-
